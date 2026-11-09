@@ -28,4 +28,4 @@ The application utilizes a 'Dismissible' widget configured with the following ma
 
 Below is a preview of the final social notification screen layout running on an Android Emulator:
 
-![Social Notifications App UI](Image/UI)
+![Social Notifications App UI](Image/UI.png)
